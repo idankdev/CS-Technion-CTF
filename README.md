@@ -4,7 +4,7 @@ Our team Psagot22 won the 3rd place in division 1 (Students who study first and 
 Psagot22 has achieved 8510 points in the CTF and ended up at the 10th place overall.
 
 ## See also:
-### Other members writeups and scripts
+### Writeups and scripts written by the rest of our team
 https://github.com/Eladkay/Technion-CTF
 
 ### Challenge Site
